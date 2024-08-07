@@ -1,0 +1,496 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.health{
+    margin: 0px;
+    padding: 0px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.health3 i{
+    font-size: 20px;
+}
+
+.healths{
+    /* margin-top: 10%; */
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    
+}
+.health1 img{
+    border-radius: 50%;
+    width: 100%;
+    height: 100px;
+    /* font: left; */
+}
+.heaL{
+    margin-left: 40px;
+}
+.health2{
+    margin-left: -104px;
+    line-height: 4px;
+}
+nav ul li{
+    /* display:flex; */
+    display: inline;
+    margin:auto;
+    /* gap: 0px; */
+    padding: 10px;
+    font-size: 17px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+.heads2{
+    display: flex;
+    margin: auto;
+    margin-left: 30%;
+    font-size: 20px;
+    gap:10px
+
+}
+.heads{
+    display: flex;
+    margin: auto;
+
+}
+.doctors{
+    background-image:url("/image/WhatsApp\ Image\ 2024-02-05\ at\ 19.01.41\ \(1\).jpeg");
+    /* background-attachment: fixed; */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    /* height: 100%; */
+    width: 100%;
+}
+.doctors b{
+    color: rgb(59, 59, 177);
+}
+.doctors p{
+    position: relative;
+    top: 7rem;
+    font-size: 40px;
+    margin-left:15%;
+    /* margin-top: 5rem; */
+}
+
+.doctors h5{
+    position: relative;
+    margin-left: 15%;
+    top: 5rem;
+    font-size: 20px;
+}
+.btn{
+    background-color: rgb(86, 86, 240);
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin-left: 20%;
+    top: 5rem;
+    padding: 8px;
+    border-radius: 20px;
+    width: 15%;
+}
+.card{
+    /* margin-top: 15%; */
+    display: flex;
+    margin: auto;
+}
+.cards{
+    padding: 15px;
+    background-color:rgb(39, 224, 64);
+}
+.cards img{
+    margin-left: 90px;
+}
+.cards h1{
+    /* margin-left: 0px; */
+    text-align: center;
+}
+.cards1{
+    background-color: rgb(106, 61, 179) ;
+    padding: 15px;
+}
+.cards1 img{
+
+    margin-left: 90px;
+}
+.cards1 h1{
+    text-align: center;
+}
+.card1{
+    margin-top: 50px;
+}
+.services1{
+    text-align: center;
+}
+.services1 h1{
+    font-size: 30px;
+}
+.practice{
+    display: flex;
+    margin: auto;
+    /* text-align: center; */
+    margin-left: 13%;
+    margin-top: 5rem;
+}
+.practice1 h1{
+    font-size: 30px;
+    
+}
+.approach{
+    margin-top: 3rem;
+    /* width: 80%;
+    margin: auto; */
+   
+}
+.approach1{
+    background-image: url("/image/Layer\ 9.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+   
+}
+.approachs{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    gap: 150px;
+   /* margin-left: 20%; */
+   justify-content: space-between;
+   position: relative;
+   top: 5rem;
+}
+.approach2 i{
+    font-size: 50px;
+    color: whitesmoke;
+}
+.approach2 h1{
+    font-size: 50px;
+    line-height: 5px;
+    color: whitesmoke;
+}
+.approach2 p{
+    font-size: 20px;
+    color: whitesmoke;
+    /* line-height: 2px; */
+}
+.works{
+    width: 80%;
+    margin: auto;
+}
+.work{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.work2{
+    width: 80%;
+    margin-left: 3%;
+}
+.nature{
+    gap: 20px;
+    display: flex;
+    margin: auto;
+}
+.btn2{
+    background-color: rgb(67, 67, 161);
+    color: rgb(249, 249, 250);
+    font-size:20px;
+    padding: 6px;
+    width: 100%;
+}
+.btn2 b{
+    margin-left: 10px;
+}
+.btn2 i{
+    font-size: 20px;
+    margin-left: -50px;
+}
+.btn3{
+    font-size:20px;
+    padding: 6px;
+    width: 100%;
+}
+.btn3 b{
+    margin-left: 10px;
+}
+.btn3 i{
+    font-size: 20px;
+    margin-left: -50px;
+}
+.btns{
+    padding: 10px;
+    background-color: rgb(70, 70, 238);
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 35%;
+    margin-top: 2rem;
+}
+
+.gallery1{
+    margin-top: 5rem;
+    background-image: url("/image/Layer\ 9.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+.gallery2{
+    width: 80%;
+    margin: auto;
+    
+}
+.gallery2 p {
+    font-size: 18px;
+    position: relative;
+    top: 3rem;
+    text-align: center;
+    color: white;
+
+}
+.gallery2 h1{
+    font-size: 30px;
+    position: relative;
+    top: 3rem;
+    text-align: center;
+    color: white;
+
+}
+.gallery{
+    position: relative;
+    top: 5rem;
+    display: flex;
+    margin: auto;
+    gap: 20px;
+}
+.dolor{
+    width: 80%;
+    margin: auto;
+}
+.dolor1 h1{
+    font-size: 30px;
+    text-align: center;
+}
+.dolor1 p{
+    text-align: center;
+}
+.mbbs{
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+.mbbs1 h4{
+    color: rgb(121, 102, 102);
+    text-align: center;
+}
+.mbbs1 p{
+    text-align: center;
+}
+.mbbs2 h4{
+    color: rgb(88, 221, 83);
+    text-align: center;
+}
+.mbbs2 p{
+    text-align: center;
+}
+.antis{
+    background-color: rgb(34, 133, 34);
+    height: 150px;
+}
+.anti{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.anti1{
+    width: 80%;
+}
+.anti1 p {
+    color: white;
+}
+.anti1 h3{
+    color: white;
+    font-size: 30px;
+}
+.btn4{
+    font:left;
+    position: relative;
+    top: 4rem;
+}
+.btn4 button{
+    padding:10px;
+     width: 150%;
+     /* background-color: rgb(44, 44, 214); */
+     color: rgb(15, 54, 228);
+     border-radius: 20%;
+     
+}
+.touch{
+    background-color: rgb(32, 32, 32);
+}
+.touchs{
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.touch4 h1{
+    color: white;
+}
+.touch1 h1{
+    color: white;
+}
+.touch p{
+    color: white;
+}
+.btn5{
+padding: 10px;
+font-size: 15px;
+border-radius: 20%;
+background-color: rgb(95, 252, 90);
+color: white;
+width: 100%;
+}
+.Point i{
+    font-size: 50px;
+    color: white;
+}
+.point1{
+    margin-left: 15px;
+}
+.points{
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+}
+.touch4 input{
+    width: 100%;
+    padding: 5px;
+    /* font-size: 20px; */
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+.last{
+    background-color: rgb(109, 116, 207);
+    padding: 10px;
+    font-size: 20px;
+}
+.last{
+text-align: center;
+}
+@media only screen and (max-width:1024px){
+    .health2 h2 {
+        font-size: 17px;
+        margin-left: 71px;
+        margin-top: 25px;
+    }
+    
+.heaL{
+    margin-left: 111px;
+    font-size: 20px;
+}
+.approach2 h1{
+        font-size: 20px;   
+}
+.health2 {
+    margin-left: -84px;
+    line-height: 4px;
+    font-size: 45px;
+    margin-top: 2px;
+}
+nav ul li{
+    font-size: 13px;
+}
+.gallery3 img{
+width:100%;
+}
+.btn2 {
+    background-color: rgb(67, 67, 161);
+    color: rgb(249, 249, 250);
+    font-size: 12px;
+    padding: 6px;
+    width: 100%;
+}
+.btn3 {
+    font-size: 10px;
+    padding: -4px;
+    width: 100%;
+}
+.btn3 i {
+    font-size: 20px;
+    margin-left: -39px;
+}
+.works {
+    width: 90%;
+    margin: auto;
+}
+
+
+
+}
+@media only screen and (max-width:768px){
+
+    .approachs {
+        width: 80%;
+        display: flex;
+        margin: auto;
+        gap: 17px;
+        justify-content: space-between;
+        position: relative;
+        top: 5rem;
+    }
+    .work {
+        /* display: flex; */
+        /* margin: auto; */
+        justify-content: space-between;
+    }.Point i {
+        font-size: 20px;
+        color: white;
+    }.point1 {
+        margin-left: 4px;
+    }.touchs {
+        justify-content: space-between;
+        display: flex;
+        margin: auto;
+        width: 90%;
+    }.touch p {
+        font-size: 13px;
+        color: white;
+        margin-bottom: -7px;
+    }
+    .touch4 input {
+        width: 100%;
+        padding: 5px;
+        background-color: rgb(29, 29, 29);
+        color: white;
+        margin-bottom: -28px;
+    }
+    .btn3 {
+        font-size: 10px;
+        padding: -4px;
+        width: 27%;
+    }
+    .dolor {
+        width: 100%;
+        margin: auto;
+    }
+    .btn2 {
+        background-color: rgb(67, 67, 161);
+        color: rgb(249, 249, 250);
+        font-size: 12px;
+        padding: 6px;
+        width: 35%;
+    }
+    
+}
